@@ -27,4 +27,4 @@ Welcome! I'm a QA Automation Engineer with over 10 years of experience and a gro
 
 ## 📫 Contact
 - 📧 kainatrizvi786@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/syeda-kainat-zehra) *(replace with your actual link)*
+- 🌐 www.linkedin.com/in/kainat-rizvi-14980365
